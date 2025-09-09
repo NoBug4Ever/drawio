@@ -1,0 +1,9 @@
+生产制造系统
+有以下概念
+SN:标识产品条码用于区分产品
+
+系统中有Project->part->process->flowchart的树形结构,一个Project对应多个part,一个part对应多个process,一个process对应多个flowchart
+系统由两个客户端、A和B
+其中A和B的表结构不一样
+但是大体上的概念一样
+产品汇总
