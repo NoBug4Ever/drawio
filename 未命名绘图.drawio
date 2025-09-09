@@ -145,7 +145,7 @@
         <mxCell id="stwq8ri4v3x9_fjbZmHY-51" value="产品拦截" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1189.75" y="560" width="120.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5q1YrE79FZFNU3yJ1Zdt-6" value="通过缓存建立上下文,&lt;div&gt;缓存存储在radius&lt;/div&gt;&lt;div&gt;这样可以避免数据不同步的问题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5q1YrE79FZFNU3yJ1Zdt-6" value="通过缓存建立上下文,&lt;div&gt;缓存存储在radius&lt;/div&gt;&lt;div&gt;(通过时间戳进行重新计算等)&lt;/div&gt;&lt;div&gt;这样可以避免数据不同步的问题&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
