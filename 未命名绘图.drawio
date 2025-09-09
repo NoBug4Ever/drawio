@@ -38,13 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stwq8ri4v3x9_fjbZmHY-13" value="任務處理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="827.5" width="110" height="77.5" as="geometry" />
+          <mxGeometry x="890" y="860" width="110" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="stwq8ri4v3x9_fjbZmHY-15" value="(receive)任務消息隊列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="750" width="110" height="77.5" as="geometry" />
+          <mxGeometry x="800" y="740" width="110" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="stwq8ri4v3x9_fjbZmHY-16" value="數據分析/查詢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="962.5" width="110" height="67.5" as="geometry" />
+          <mxGeometry x="920" y="976.25" width="110" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="stwq8ri4v3x9_fjbZmHY-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1430" y="620" width="120" height="180" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stwq8ri4v3x9_fjbZmHY-28" value="任務註冊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="827.5" width="110" height="77.5" as="geometry" />
+          <mxGeometry x="985" y="740" width="110" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
