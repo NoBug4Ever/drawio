@@ -13,6 +13,9 @@
         <mxCell id="Jog6YgeHabasC2MlmQwj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="931.75" y="370" width="136.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="stwq8ri4v3x9_fjbZmHY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jog6YgeHabasC2MlmQwj-6" target="stwq8ri4v3x9_fjbZmHY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jog6YgeHabasC2MlmQwj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="916.25" y="478.75" width="167.5" height="52.5" as="geometry" />
         </mxCell>
@@ -94,7 +97,7 @@
         <mxCell id="stwq8ri4v3x9_fjbZmHY-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="460" width="290" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="stwq8ri4v3x9_fjbZmHY-33" value="产品上下文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="stwq8ri4v3x9_fjbZmHY-33" value="产品上下文/制程360" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
