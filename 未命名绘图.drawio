@@ -19,8 +19,8 @@
         <mxCell id="stwq8ri4v3x9_fjbZmHY-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="660" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="stwq8ri4v3x9_fjbZmHY-6" value="異常前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="695" width="60" height="30" as="geometry" />
+        <mxCell id="stwq8ri4v3x9_fjbZmHY-6" value="異常前端/Grafana待定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="720" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stwq8ri4v3x9_fjbZmHY-7" value="異常系統" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="780" width="60" height="30" as="geometry" />
